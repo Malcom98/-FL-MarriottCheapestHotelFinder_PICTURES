@@ -9,7 +9,7 @@ This was a FreelancingProject that was created for client from California, USA. 
 <br>
 <br>
 Comment from a client is shown below:<br>
-![Response](https://user-images.githubusercontent.com/35956934/77964251-0d061f80-72df-11ea-85b3-be1273fd805e.png)
+![Response](https://user-images.githubusercontent.com/35956934/77964376-3de65480-72df-11ea-8e94-9c7dcf395312.png)
 <br>
 
 
